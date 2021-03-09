@@ -1,0 +1,94 @@
+{
+    "profile": "tabular-data-package",
+    "name": "ccsa-covid-v3-wbg",
+    "title": "Covid-19 estimated to have pushed 119-124 million people into extreme poverty in 2020",
+	"description": "This dataset provides CSV files for the World Bank's submission to 'How COVID-19 is changing the world: a statistical perspective Volume III'",
+    "created": "2021-03-09T22:33:29Z",
+    "resources": [
+        {
+            "profile": "tabular-data-resource",
+            "name": "world-bank-figure1",
+            "title": "Figure 1: The impact of COVID-19 on global poverty",
+            "path": "world-bank-figure1.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "year",
+                        "type": "integer",
+                        "title": "Year"
+                    },
+                    {
+                        "name": "historical",
+                        "type": "number",
+                        "title": "Historical numbers"
+                    },
+                    {
+                        "name": "pre_covid_projection",
+                        "type": "number",
+                        "title": "Pre-COVID-19 projection"
+                    },
+                    {
+                        "name": "covid_baseline_projection",
+                        "type": "number",
+                        "title": "COVID-19-baseline projection"
+                    },
+                    {
+                        "name": "covid_downside_projection",
+                        "type": "number",
+                        "title": "COVID-19-downside projection"
+                    }
+                ]
+            }
+        },
+        {
+            "profile": "tabular-data-resource",
+            "name": "world-bank-figure2",
+            "title": "Figure 2: The regional distribution of the COVID-19-induced poor",
+            "path": "world-bank-figure2.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "growth_vintage",
+                        "type": "string",
+                        "title": "Growth Vintage"
+                    },
+                    {
+                        "name": "EAP",
+                        "type": "number",
+                        "title": "East Asia & Pacific"
+                    },
+                    {
+                        "name": "ECA",
+                        "type": "number",
+                        "title": "Europe & Central Asia"
+                    },
+                    {
+                        "name": "LAC",
+                        "type": "number",
+                        "title": "Latin America & Caribbean"
+                    },
+                    {
+                        "name": "MENA",
+                        "type": "number",
+                        "title": "Middle East & North Africa"
+                    },
+                    {
+                        "name": "ROW",
+                        "type": "number",
+                        "title": "Rest of the world"
+                    },
+                    {
+                        "name": "SA",
+                        "type": "number",
+                        "title": "South Asia"
+                    },
+                    {
+                        "name": "SSA",
+                        "type": "number",
+                        "title": "Sub-Saharan Africa"
+                    }
+                ]
+            }
+        }
+    ]
+}
