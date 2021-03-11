@@ -25,6 +25,10 @@ Data for computing poverty estimates come from [PovcalNet][povcal] and the lates
 from [Global Economic Prospects][gep]. Metadata for the CSV files is provided in JSON format
 following the [Frictionless Data Specification][frictionless].
 
+### UN Habitat ###
+
+Data included in this repository was downloaded on 2021-03-10 17:43:32 from the COVID-19 tracker available at
+<https://unhabitat.citiiq.com>. More recent data may be available at the dashboard.
 
 [ccsa]:   https://unstats.un.org/unsd/ccsa/
 [pub-v3]: https://unstats.un.org/unsd/ccsa/
