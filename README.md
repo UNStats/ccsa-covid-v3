@@ -19,16 +19,22 @@ under a [Creative Commons Attribution 4.0 International License][cc-by].
 Data files are located in the "data" subdirectory of this repository organized by CCSA member.
 Unless otherwise indicated files are in [CSV format][csv] with a separate file for each figure.
 
+### UNEP ###
+
+Data was downloaded on 2021-01-20 from <https://carbonmonitor.org>; see website for latest
+available data.
+
+### UN Habitat ###
+
+Data was downloaded on 2021-03-10 from the [COVID-19 tracker](https://unhabitat.citiiq.com) dashboard;
+see dashboard for latest available data.
+
 ### World Bank ###
 
 Data for computing poverty estimates come from [PovcalNet][povcal] and the latest growth forecasts
 from [Global Economic Prospects][gep]. Metadata for the CSV files is provided in JSON format
 following the [Frictionless Data Specification][frictionless].
 
-### UN Habitat ###
-
-Data included in this repository was downloaded on 2021-03-10 17:43:32 from the COVID-19 tracker available at
-<https://unhabitat.citiiq.com>. More recent data may be available at the dashboard.
 
 [ccsa]:   https://unstats.un.org/unsd/ccsa/
 [pub-v3]: https://unstats.un.org/unsd/ccsa/
