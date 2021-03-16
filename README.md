@@ -19,6 +19,14 @@ under a [Creative Commons Attribution 4.0 International License][cc-by].
 Data files are located in the "data" subdirectory of this repository organized by CCSA member.
 Unless otherwise indicated files are in [CSV format][csv] with a separate file for each figure.
 
+### OECD ###
+
+Data corresponds to the period between January and August 2020; see
+[OECD's repository](oecd-repo) for more details on the
+[data sources and the OECD Regional Typology](oecd-meta).
+
+Both figures can be recreated from the data in the same file.
+
 ### UNEP ###
 
 Data was downloaded on 2021-01-20 from <https://carbonmonitor.org>; see website for latest
@@ -39,7 +47,10 @@ following the [Frictionless Data Specification][frictionless].
 [ccsa]:   https://unstats.un.org/unsd/ccsa/
 [pub-v3]: https://unstats.un.org/unsd/ccsa/
 [csv]:    http://opendatahandbook.org/guide/en/appendices/file-formats/#comma-separated-files
-[cc-by]:  http://creativecommons.org/licenses/by/4.0/ 
+[cc-by]:  http://creativecommons.org/licenses/by/4.0/
+
+[oecd-repo]: https://github.com/oecd-cfe-eds/ccsa-excess-mortality/
+[oecd-meta]: https://github.com/oecd-cfe-eds/ccsa-excess-mortality/blob/master/metadata.md
 
 [povcal]: http://iresearch.worldbank.org/PovcalNet/home.aspx
 [gep]:    https://www.worldbank.org/en/publication/global-economic-prospects
