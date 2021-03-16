@@ -21,9 +21,10 @@ Unless otherwise indicated files are in [CSV format][csv] with a separate file f
 
 ### OECD ###
 
-Data corresponds to the period between January and August 2020; see
-[OECD's repository](oecd-repo) for more details on the
-[data sources and the OECD Regional Typology](oecd-meta).
+OECD data is provided in a [separate GitHub respository][oecd-repo] and
+corresponds to the period between January and August 2020; see
+[OECD's repository][oecd-repo] for more details on the
+[data sources and the OECD Regional Typology][oecd-meta].
 
 Both figures can be recreated from the data in the same file.
 
