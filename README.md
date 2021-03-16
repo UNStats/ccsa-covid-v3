@@ -25,8 +25,14 @@ OECD data is provided in a [separate GitHub respository][oecd-repo] and
 corresponds to the period between January and August 2020; see
 [OECD's repository][oecd-repo] for more details on the
 [data sources and the OECD Regional Typology][oecd-meta].
-
 Both figures can be recreated from the data in the same file.
+
+### ILO ###
+
+Data is current as of 2021-03-16. Latest data are available from ILO's
+[COVID topic page](https://ilostat.ilo.org/topics/covid-19/). All ILO data
+is updated weekly and can be found at <https://ilostat.ilo.org/data> and
+<https://ilostat.ilo.org/data/bulk>.
 
 ### UNEP ###
 

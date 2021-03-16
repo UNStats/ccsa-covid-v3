@@ -1,0 +1,377 @@
+﻿ref_area,ref_area.label,source,source.label,indicator,indicator.label,time,obs_value
+X01,World,XA:8405,X01 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,5.2
+X01,World,XA:8405,X01 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,18.2
+X01,World,XA:8405,X01 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,7.2
+X01,World,XA:8405,X01 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,4.6
+X02,World: Low income,XA:8402,X02 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,2.5
+X02,World: Low income,XA:8402,X02 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,13.4
+X02,World: Low income,XA:8402,X02 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,7.6
+X02,World: Low income,XA:8402,X02 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,3.3
+X03,World: Lower-middle income,XA:8403,X03 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,2.5
+X03,World: Lower-middle income,XA:8403,X03 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,29
+X03,World: Lower-middle income,XA:8403,X03 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,9.3
+X03,World: Lower-middle income,XA:8403,X03 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,4.5
+X04,World: Upper-middle income,XA:8401,X04 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,8.4
+X04,World: Upper-middle income,XA:8401,X04 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,11.5
+X04,World: Upper-middle income,XA:8401,X04 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,5.6
+X04,World: Upper-middle income,XA:8401,X04 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,3.9
+X05,World: High income,XA:8404,X05 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,3
+X05,World: High income,XA:8404,X05 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,15.8
+X05,World: High income,XA:8404,X05 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,7.3
+X05,World: High income,XA:8404,X05 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,7
+X06,Africa,XA:8372,X06 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,2.3
+X06,Africa,XA:8372,X06 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,16
+X06,Africa,XA:8372,X06 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,8
+X06,Africa,XA:8372,X06 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,4.5
+X07,Africa: Low income,XA:8406,X07 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,2.3
+X07,Africa: Low income,XA:8406,X07 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,13.5
+X07,Africa: Low income,XA:8406,X07 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,8.4
+X07,Africa: Low income,XA:8406,X07 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,3.7
+X08,Africa: Lower-middle income,XA:8407,X08 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,2.5
+X08,Africa: Lower-middle income,XA:8407,X08 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,16.7
+X08,Africa: Lower-middle income,XA:8407,X08 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,7.1
+X08,Africa: Lower-middle income,XA:8407,X08 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,4.7
+X09,Africa: Upper-middle income,XA:8408,X09 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,0.5
+X09,Africa: Upper-middle income,XA:8408,X09 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,26.3
+X09,Africa: Upper-middle income,XA:8408,X09 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,14.9
+X09,Africa: Upper-middle income,XA:8408,X09 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,8
+X10,Northern Africa,XA:8373,X10 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,2.5
+X10,Northern Africa,XA:8373,X10 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,23.3
+X10,Northern Africa,XA:8373,X10 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,9.4
+X10,Northern Africa,XA:8373,X10 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,6.5
+X11,Northern Africa: Lower-middle income,XA:8409,X11 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,2.5
+X11,Northern Africa: Lower-middle income,XA:8409,X11 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,23.4
+X11,Northern Africa: Lower-middle income,XA:8409,X11 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,9.4
+X11,Northern Africa: Lower-middle income,XA:8409,X11 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,6.5
+X12,Northern Africa: Upper-middle income,XA:8410,X12 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,2.8
+X12,Northern Africa: Upper-middle income,XA:8410,X12 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,18.8
+X12,Northern Africa: Upper-middle income,XA:8410,X12 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,10.7
+X12,Northern Africa: Upper-middle income,XA:8410,X12 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,5.1
+X13,Sub-Saharan Africa,XA:8374,X13 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,2.3
+X13,Sub-Saharan Africa,XA:8374,X13 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,14.6
+X13,Sub-Saharan Africa,XA:8374,X13 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,7.7
+X13,Sub-Saharan Africa,XA:8374,X13 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,4.1
+X14,Sub-Saharan Africa: Low income,XA:8411,X14 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,2.3
+X14,Sub-Saharan Africa: Low income,XA:8411,X14 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,13.5
+X14,Sub-Saharan Africa: Low income,XA:8411,X14 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,8.4
+X14,Sub-Saharan Africa: Low income,XA:8411,X14 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,3.7
+X15,Sub-Saharan Africa: Lower-middle income,XA:8412,X15 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,2.5
+X15,Sub-Saharan Africa: Lower-middle income,XA:8412,X15 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,14.1
+X15,Sub-Saharan Africa: Lower-middle income,XA:8412,X15 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,6.3
+X15,Sub-Saharan Africa: Lower-middle income,XA:8412,X15 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,4
+X16,Sub-Saharan Africa: Upper-middle income,XA:8413,X16 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,0.3
+X16,Sub-Saharan Africa: Upper-middle income,XA:8413,X16 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,27
+X16,Sub-Saharan Africa: Upper-middle income,XA:8413,X16 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,15
+X16,Sub-Saharan Africa: Upper-middle income,XA:8413,X16 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,8.1
+X17,Central Africa,XA:8392,X17 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,2.2
+X17,Central Africa,XA:8392,X17 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,14.5
+X17,Central Africa,XA:8392,X17 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,7.3
+X17,Central Africa,XA:8392,X17 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,3.4
+X18,Eastern Africa,XA:8375,X18 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,2.4
+X18,Eastern Africa,XA:8375,X18 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,13.5
+X18,Eastern Africa,XA:8375,X18 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,8.6
+X18,Eastern Africa,XA:8375,X18 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,4.2
+X19,Southern Africa,XA:8376,X19 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,0.2
+X19,Southern Africa,XA:8376,X19 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,26.8
+X19,Southern Africa,XA:8376,X19 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,15.3
+X19,Southern Africa,XA:8376,X19 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,8.2
+X20,Western Africa,XA:8387,X20 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,2.4
+X20,Western Africa,XA:8387,X20 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,14
+X20,Western Africa,XA:8387,X20 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,5.7
+X20,Western Africa,XA:8387,X20 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,3.6
+X21,Americas,XA:8377,X21 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,3.2
+X21,Americas,XA:8377,X21 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,27.6
+X21,Americas,XA:8377,X21 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,14.9
+X21,Americas,XA:8377,X21 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,8.9
+X22,Americas: Low income,XA:8414,X22 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,2.7
+X22,Americas: Low income,XA:8414,X22 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,18.6
+X22,Americas: Low income,XA:8414,X22 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,4.5
+X22,Americas: Low income,XA:8414,X22 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,4.6
+X23,Americas: Lower-middle income,XA:8415,X23 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,5.2
+X23,Americas: Lower-middle income,XA:8415,X23 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,38.5
+X23,Americas: Lower-middle income,XA:8415,X23 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,20.8
+X23,Americas: Lower-middle income,XA:8415,X23 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,9.6
+X24,Americas: Upper-middle income,XA:8416,X24 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,4.3
+X24,Americas: Upper-middle income,XA:8416,X24 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,32.7
+X24,Americas: Upper-middle income,XA:8416,X24 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,17.3
+X24,Americas: Upper-middle income,XA:8416,X24 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,10.4
+X25,Americas: High income,XA:8417,X25 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,1.4
+X25,Americas: High income,XA:8417,X25 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,19.5
+X25,Americas: High income,XA:8417,X25 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,11.2
+X25,Americas: High income,XA:8417,X25 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,6.9
+X26,Latin America and the Caribbean,XA:8378,X26 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,4.1
+X26,Latin America and the Caribbean,XA:8378,X26 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,32.8
+X26,Latin America and the Caribbean,XA:8378,X26 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,17.5
+X26,Latin America and the Caribbean,XA:8378,X26 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,10.3
+X27,Latin America and the Caribbean: Low income,XA:8418,X27 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,2.7
+X27,Latin America and the Caribbean: Low income,XA:8418,X27 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,18.6
+X27,Latin America and the Caribbean: Low income,XA:8418,X27 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,4.5
+X27,Latin America and the Caribbean: Low income,XA:8418,X27 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,4.6
+X28,Latin America and the Caribbean: Lower-middle income,XA:8419,X28 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,5.2
+X28,Latin America and the Caribbean: Lower-middle income,XA:8419,X28 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,38.5
+X28,Latin America and the Caribbean: Lower-middle income,XA:8419,X28 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,20.8
+X28,Latin America and the Caribbean: Lower-middle income,XA:8419,X28 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,9.6
+X29,Latin America and the Caribbean: Upper-middle income,XA:8420,X29 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,4.3
+X29,Latin America and the Caribbean: Upper-middle income,XA:8420,X29 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,32.8
+X29,Latin America and the Caribbean: Upper-middle income,XA:8420,X29 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,17.4
+X29,Latin America and the Caribbean: Upper-middle income,XA:8420,X29 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,10.4
+X30,Latin America and the Caribbean: High income,XA:8421,X30 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,-0.1
+X30,Latin America and the Caribbean: High income,XA:8421,X30 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,31.7
+X30,Latin America and the Caribbean: High income,XA:8421,X30 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,20.8
+X30,Latin America and the Caribbean: High income,XA:8421,X30 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,12.4
+X31,Caribbean,XA:8379,X31 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,2.9
+X31,Caribbean,XA:8379,X31 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,24.7
+X31,Caribbean,XA:8379,X31 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,11.5
+X31,Caribbean,XA:8379,X31 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,7.7
+X32,Central America,XA:8380,X32 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,1.4
+X32,Central America,XA:8380,X32 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,29.3
+X32,Central America,XA:8380,X32 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,14.6
+X32,Central America,XA:8380,X32 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,10
+X33,South America,XA:8381,X33 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,5.4
+X33,South America,XA:8381,X33 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,35.1
+X33,South America,XA:8381,X33 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,19.4
+X33,South America,XA:8381,X33 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,10.8
+X34,Northern America,XA:8382,X34 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,1.6
+X34,Northern America,XA:8382,X34 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,18.5
+X34,Northern America,XA:8382,X34 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,10.4
+X34,Northern America,XA:8382,X34 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,6.5
+X35,Northern America: High income,XA:8422,X35 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,1.6
+X35,Northern America: High income,XA:8422,X35 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,18.5
+X35,Northern America: High income,XA:8422,X35 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,10.4
+X35,Northern America: High income,XA:8422,X35 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,6.5
+X36,Arab States,XA:8384,X36 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,3.3
+X36,Arab States,XA:8384,X36 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,18.8
+X36,Arab States,XA:8384,X36 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,9.4
+X36,Arab States,XA:8384,X36 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,4.7
+X37,Arab States: Lower-middle income,XA:8423,X37 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,3.9
+X37,Arab States: Lower-middle income,XA:8423,X37 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,24.2
+X37,Arab States: Lower-middle income,XA:8423,X37 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,16.9
+X37,Arab States: Lower-middle income,XA:8423,X37 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,7.3
+X38,Arab States: Upper-middle income,XA:8424,X38 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,4.1
+X38,Arab States: Upper-middle income,XA:8424,X38 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,21.5
+X38,Arab States: Upper-middle income,XA:8424,X38 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,10.7
+X38,Arab States: Upper-middle income,XA:8424,X38 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,6.3
+X39,Arab States: High income,XA:8425,X39 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,3.2
+X39,Arab States: High income,XA:8425,X39 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,20.7
+X39,Arab States: High income,XA:8425,X39 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,10.3
+X39,Arab States: High income,XA:8425,X39 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,4.9
+X40,Asia and the Pacific,XA:8385,X40 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,6.5
+X40,Asia and the Pacific,XA:8385,X40 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,16.9
+X40,Asia and the Pacific,XA:8385,X40 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,5.4
+X40,Asia and the Pacific,XA:8385,X40 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,2.8
+X41,Asia and the Pacific: Low income,XA:8426,X41 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,3.8
+X41,Asia and the Pacific: Low income,XA:8426,X41 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,11.3
+X41,Asia and the Pacific: Low income,XA:8426,X41 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,3.6
+X41,Asia and the Pacific: Low income,XA:8426,X41 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,2
+X42,Asia and the Pacific: Lower-middle income,XA:8427,X42 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,2.5
+X42,Asia and the Pacific: Lower-middle income,XA:8427,X42 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,32.8
+X42,Asia and the Pacific: Lower-middle income,XA:8427,X42 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,9.8
+X42,Asia and the Pacific: Lower-middle income,XA:8427,X42 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,4.3
+X43,Asia and the Pacific: Upper-middle income,XA:8428,X43 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,10.2
+X43,Asia and the Pacific: Upper-middle income,XA:8428,X43 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,5.1
+X43,Asia and the Pacific: Upper-middle income,XA:8428,X43 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,2.1
+X43,Asia and the Pacific: Upper-middle income,XA:8428,X43 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,1.7
+X44,Asia and the Pacific: High income,XA:8429,X44 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,3.3
+X44,Asia and the Pacific: High income,XA:8429,X44 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,8.6
+X44,Asia and the Pacific: High income,XA:8429,X44 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,4.5
+X44,Asia and the Pacific: High income,XA:8429,X44 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,3.3
+X45,Eastern Asia,XA:8386,X45 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,11
+X45,Eastern Asia,XA:8386,X45 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,3.3
+X45,Eastern Asia,XA:8386,X45 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,1.5
+X45,Eastern Asia,XA:8386,X45 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,0.9
+X46,Eastern Asia: Low income,XA:8430,X46 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,4.5
+X46,Eastern Asia: Low income,XA:8430,X46 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,5.6
+X46,Eastern Asia: Low income,XA:8430,X46 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,3.4
+X46,Eastern Asia: Low income,XA:8430,X46 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,4
+X47,Eastern Asia: Upper-middle income,XA:8431,X47 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,12.1
+X47,Eastern Asia: Upper-middle income,XA:8431,X47 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,2.7
+X47,Eastern Asia: Upper-middle income,XA:8431,X47 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,1.1
+X47,Eastern Asia: Upper-middle income,XA:8431,X47 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,0.5
+X48,Eastern Asia: High income,XA:8432,X48 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,3.6
+X48,Eastern Asia: High income,XA:8432,X48 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,8.1
+X48,Eastern Asia: High income,XA:8432,X48 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,4.3
+X48,Eastern Asia: High income,XA:8432,X48 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,3.5
+X49,South-Eastern Asia and the Pacific,XA:8388,X49 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,2.9
+X49,South-Eastern Asia and the Pacific,XA:8388,X49 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,17.4
+X49,South-Eastern Asia and the Pacific,XA:8388,X49 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,7
+X49,South-Eastern Asia and the Pacific,XA:8388,X49 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,5.6
+X51,South-Eastern Asia and the Pacific: Lower-middle income,XA:8434,X51 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,2.7
+X51,South-Eastern Asia and the Pacific: Lower-middle income,XA:8434,X51 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,20.8
+X51,South-Eastern Asia and the Pacific: Lower-middle income,XA:8434,X51 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,7.8
+X51,South-Eastern Asia and the Pacific: Lower-middle income,XA:8434,X51 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,5.5
+X52,South-Eastern Asia and the Pacific: Upper-middle income,XA:8435,X52 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,3.2
+X52,South-Eastern Asia and the Pacific: Upper-middle income,XA:8435,X52 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,15.1
+X52,South-Eastern Asia and the Pacific: Upper-middle income,XA:8435,X52 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,6.5
+X52,South-Eastern Asia and the Pacific: Upper-middle income,XA:8435,X52 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,6
+X53,South-Eastern Asia and the Pacific: High income,XA:8436,X53 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,0.9
+X53,South-Eastern Asia and the Pacific: High income,XA:8436,X53 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,11.6
+X53,South-Eastern Asia and the Pacific: High income,XA:8436,X53 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,3.8
+X53,South-Eastern Asia and the Pacific: High income,XA:8436,X53 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,2.3
+X54,South-Eastern Asia,XA:8389,X54 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,3
+X54,South-Eastern Asia,XA:8389,X54 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,17.8
+X54,South-Eastern Asia,XA:8389,X54 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,7.2
+X54,South-Eastern Asia,XA:8389,X54 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,5.7
+X55,Pacific Islands,XA:8390,X55 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,1
+X55,Pacific Islands,XA:8390,X55 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,8.1
+X55,Pacific Islands,XA:8390,X55 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,4
+X55,Pacific Islands,XA:8390,X55 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,1.9
+X56,Southern Asia,XA:8391,X56 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,2.2
+X56,Southern Asia,XA:8391,X56 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,34.5
+X56,Southern Asia,XA:8391,X56 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,9.9
+X56,Southern Asia,XA:8391,X56 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,4.1
+X57,Southern Asia: Low income,XA:8437,X57 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,2.7
+X57,Southern Asia: Low income,XA:8437,X57 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,20.6
+X57,Southern Asia: Low income,XA:8437,X57 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,3.9
+X57,Southern Asia: Low income,XA:8437,X57 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,-1.3
+X58,Southern Asia: Lower-middle income,XA:8438,X58 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,2.4
+X58,Southern Asia: Lower-middle income,XA:8438,X58 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,35.4
+X58,Southern Asia: Lower-middle income,XA:8438,X58 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,10.2
+X58,Southern Asia: Lower-middle income,XA:8438,X58 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,4
+X59,Southern Asia: Upper-middle income,XA:8439,X59 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,-3.5
+X59,Southern Asia: Upper-middle income,XA:8439,X59 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,14.8
+X59,Southern Asia: Upper-middle income,XA:8439,X59 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,4.1
+X59,Southern Asia: Upper-middle income,XA:8439,X59 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,8.6
+X60,Europe and Central Asia,XA:8393,X60 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,3.9
+X60,Europe and Central Asia,XA:8393,X60 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,17.3
+X60,Europe and Central Asia,XA:8393,X60 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,6.8
+X60,Europe and Central Asia,XA:8393,X60 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,8.9
+X61,Europe and Central Asia: Lower-middle income,XA:8440,X61 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,3.4
+X61,Europe and Central Asia: Lower-middle income,XA:8440,X61 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,18.3
+X61,Europe and Central Asia: Lower-middle income,XA:8440,X61 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,7.3
+X61,Europe and Central Asia: Lower-middle income,XA:8440,X61 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,7.1
+X62,Europe and Central Asia: Upper-middle income,XA:8441,X62 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,3.6
+X62,Europe and Central Asia: Upper-middle income,XA:8441,X62 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,19.3
+X62,Europe and Central Asia: Upper-middle income,XA:8441,X62 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,9.1
+X62,Europe and Central Asia: Upper-middle income,XA:8441,X62 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,8.5
+X63,Europe and Central Asia: High income,XA:8442,X63 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,4.2
+X63,Europe and Central Asia: High income,XA:8442,X63 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,16.1
+X63,Europe and Central Asia: High income,XA:8442,X63 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,5.3
+X63,Europe and Central Asia: High income,XA:8442,X63 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,9.5
+X64,"Northern, Southern and Western Europe",XA:8394,X64 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,4.5
+X64,"Northern, Southern and Western Europe",XA:8394,X64 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,17.2
+X64,"Northern, Southern and Western Europe",XA:8394,X64 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,6.1
+X64,"Northern, Southern and Western Europe",XA:8394,X64 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,9.7
+X65,"Northern, Southern and Western Europe: Upper-middle income",XA:8443,X65 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,2.1
+X65,"Northern, Southern and Western Europe: Upper-middle income",XA:8443,X65 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,15
+X65,"Northern, Southern and Western Europe: Upper-middle income",XA:8443,X65 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,9.2
+X65,"Northern, Southern and Western Europe: Upper-middle income",XA:8443,X65 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,5.5
+X66,"Northern, Southern and Western Europe: High income",XA:8444,X66 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,4.6
+X66,"Northern, Southern and Western Europe: High income",XA:8444,X66 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,17.3
+X66,"Northern, Southern and Western Europe: High income",XA:8444,X66 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,6
+X66,"Northern, Southern and Western Europe: High income",XA:8444,X66 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,9.8
+X67,Northern Europe,XA:8395,X67 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,4.2
+X67,Northern Europe,XA:8395,X67 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,16.3
+X67,Northern Europe,XA:8395,X67 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,9.5
+X67,Northern Europe,XA:8395,X67 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,10.1
+X68,Southern Europe,XA:8396,X68 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,6.7
+X68,Southern Europe,XA:8396,X68 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,23.9
+X68,Southern Europe,XA:8396,X68 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,7
+X68,Southern Europe,XA:8396,X68 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,11.8
+X69,Western Europe,XA:8383,X69 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,3.1
+X69,Western Europe,XA:8383,X69 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,12.9
+X69,Western Europe,XA:8383,X69 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,3.5
+X69,Western Europe,XA:8383,X69 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,8
+X70,Eastern Europe,XA:8397,X70 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,2.8
+X70,Eastern Europe,XA:8397,X70 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,12.8
+X70,Eastern Europe,XA:8397,X70 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,6.5
+X70,Eastern Europe,XA:8397,X70 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,7.6
+X71,Eastern Europe: Lower-middle income,XA:8445,X71 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,3.2
+X71,Eastern Europe: Lower-middle income,XA:8445,X71 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,16.2
+X71,Eastern Europe: Lower-middle income,XA:8445,X71 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,6.6
+X71,Eastern Europe: Lower-middle income,XA:8445,X71 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,10.2
+X72,Eastern Europe: Upper-middle income,XA:8446,X72 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,3.2
+X72,Eastern Europe: Upper-middle income,XA:8446,X72 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,13.1
+X72,Eastern Europe: Upper-middle income,XA:8446,X72 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,8.6
+X72,Eastern Europe: Upper-middle income,XA:8446,X72 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,6.9
+X73,Eastern Europe: High income,XA:8447,X73 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,1.9
+X73,Eastern Europe: High income,XA:8447,X73 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,10.4
+X73,Eastern Europe: High income,XA:8447,X73 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,2.2
+X73,Eastern Europe: High income,XA:8447,X73 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,7.7
+X74,Central Asia,XA:8398,X74 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,3.3
+X74,Central Asia,XA:8398,X74 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,17.6
+X74,Central Asia,XA:8398,X74 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,8.9
+X74,Central Asia,XA:8398,X74 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,5.4
+X75,Central and Western Asia: Lower-middle income,XA:8448,X75 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,3.5
+X75,Central and Western Asia: Lower-middle income,XA:8448,X75 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,20.7
+X75,Central and Western Asia: Lower-middle income,XA:8448,X75 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,8.2
+X75,Central and Western Asia: Lower-middle income,XA:8448,X75 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,3.5
+X76,Central and Western Asia: Upper-middle income,XA:8449,X76 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,4.4
+X76,Central and Western Asia: Upper-middle income,XA:8449,X76 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,28.8
+X76,Central and Western Asia: Upper-middle income,XA:8449,X76 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,9.8
+X76,Central and Western Asia: Upper-middle income,XA:8449,X76 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,11.2
+X77,Central and Western Asia: High income,XA:8450,X77 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,6.5
+X77,Central and Western Asia: High income,XA:8450,X77 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,17.1
+X77,Central and Western Asia: High income,XA:8450,X77 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,6.8
+X77,Central and Western Asia: High income,XA:8450,X77 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,9.6
+X78,Central and Western Asia,XA:8399,X78 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,4.3
+X78,Central and Western Asia,XA:8399,X78 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,25.6
+X78,Central and Western Asia,XA:8399,X78 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,9.1
+X78,Central and Western Asia,XA:8399,X78 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,9.2
+X79,Western Asia,XA:8400,X79 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,4.9
+X79,Western Asia,XA:8400,X79 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,30.9
+X79,Western Asia,XA:8400,X79 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,9.3
+X79,Western Asia,XA:8400,X79 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,11.6
+X81,Sub-Saharan Africa: High income,XA:15725,X81 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,2.1
+X81,Sub-Saharan Africa: High income,XA:15725,X81 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,22.7
+X81,Sub-Saharan Africa: High income,XA:15725,X81 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,1.2
+X81,Sub-Saharan Africa: High income,XA:15725,X81 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,0.9
+X82,European Union 28,XA:12988,X82 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,4.2
+X82,European Union 28,XA:12988,X82 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,16.4
+X82,European Union 28,XA:12988,X82 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,5.4
+X82,European Union 28,XA:12988,X82 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,9.6
+X83,G20,XA:12989,X83 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,6.4
+X83,G20,XA:12989,X83 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,17.2
+X83,G20,XA:12989,X83 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,6.4
+X83,G20,XA:12989,X83 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,4
+X84,ASEAN,XA:12987,X84 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,3
+X84,ASEAN,XA:12987,X84 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,17.9
+X84,ASEAN,XA:12987,X84 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,7.2
+X84,ASEAN,XA:12987,X84 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,5.7
+X85,BRICS,XA:12990,X85 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,7.9
+X85,BRICS,XA:12990,X85 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,17.1
+X85,BRICS,XA:12990,X85 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,5.7
+X85,BRICS,XA:12990,X85 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,2.3
+X86,Eastern Asia: Lower-middle income,XA:13328,X86 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,-0.7
+X86,Eastern Asia: Lower-middle income,XA:13328,X86 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,3.9
+X86,Eastern Asia: Lower-middle income,XA:13328,X86 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,-0.1
+X86,Eastern Asia: Lower-middle income,XA:13328,X86 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,7
+X87,World excluding BRICS,XA:13329,X87 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,2.9
+X87,World excluding BRICS,XA:13329,X87 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,19.2
+X87,World excluding BRICS,XA:13329,X87 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,8.5
+X87,World excluding BRICS,XA:13329,X87 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,6.5
+X88,G7,XA:14065,X88 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,3.2
+X88,G7,XA:14065,X88 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,16.4
+X88,G7,XA:14065,X88 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,8
+X88,G7,XA:14065,X88 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,7.2
+X89,MENA,XA:14066,X89 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,1.7
+X89,MENA,XA:14066,X89 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,20.1
+X89,MENA,XA:14066,X89 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,8.4
+X89,MENA,XA:14066,X89 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,6.2
+X90,Arab League,XA:15672,X90 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,2.8
+X90,Arab League,XA:15672,X90 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,20.8
+X90,Arab League,XA:15672,X90 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,9.1
+X90,Arab League,XA:15672,X90 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,5.6
+X91,CARICOM,XA:15716,X91 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,3.3
+X91,CARICOM,XA:15716,X91 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,22
+X91,CARICOM,XA:15716,X91 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,11.7
+X91,CARICOM,XA:15716,X91 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,9.1
+X92,European Union 27,XA:15724,X92 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,4.1
+X92,European Union 27,XA:15724,X92 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,15.6
+X92,European Union 27,XA:15724,X92 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,4.3
+X92,European Union 27,XA:15724,X92 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,9.1
+X93,Africa: High income,XA:15726,X93 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,2.1
+X93,Africa: High income,XA:15726,X93 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,22.7
+X93,Africa: High income,XA:15726,X93 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,1.2
+X93,Africa: High income,XA:15726,X93 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,0.9
+X94,Arab States: Low income,XA:15736,X94 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,2.3
+X94,Arab States: Low income,XA:15736,X94 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,8.9
+X94,Arab States: Low income,XA:15736,X94 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,4.3
+X94,Arab States: Low income,XA:15736,X94 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,1.8
+X95,Europe and Central Asia: Low income,XA:15737,X95 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,2.1
+X95,Europe and Central Asia: Low income,XA:15737,X95 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,3.9
+X95,Europe and Central Asia: Low income,XA:15737,X95 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,4.4
+X95,Europe and Central Asia: Low income,XA:15737,X95 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,2.4
+X96,Central and Western Asia: Low income,XA:15738,X96 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q1,2.1
+X96,Central and Western Asia: Low income,XA:15738,X96 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q2,3.9
+X96,Central and Western Asia: Low income,XA:15738,X96 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q3,4.4
+X96,Central and Western Asia: Low income,XA:15738,X96 - ILO - ILO Modelled Estimates,HOW_2LSS_NOC_RT,Working hours lost due to the COVID-19 crisis -- ILO modelled estimates (%),2020Q4,2.4
