@@ -19,6 +19,14 @@ under a [Creative Commons Attribution 4.0 International License][cc-by].
 Data files are located in the "data" subdirectory of this repository organized by CCSA member.
 Unless otherwise indicated files are in [CSV format][csv] with a separate file for each figure.
 
+
+### ILO ###
+
+Data is current as of 2021-03-16. Latest data are available from ILO's
+[COVID topic page](https://ilostat.ilo.org/topics/covid-19/). All ILO data
+is updated weekly and can be found at <https://ilostat.ilo.org/data> and
+<https://ilostat.ilo.org/data/bulk>.
+
 ### OECD ###
 
 OECD data is provided in a [separate GitHub respository][oecd-repo] and
@@ -27,12 +35,14 @@ corresponds to the period between January and August 2020; see
 [data sources and the OECD Regional Typology][oecd-meta].
 Both figures can be recreated from the data in the same file.
 
-### ILO ###
+### UNSD/WBG ###
 
-Data is current as of 2021-03-16. Latest data are available from ILO's
-[COVID topic page](https://ilostat.ilo.org/topics/covid-19/). All ILO data
-is updated weekly and can be found at <https://ilostat.ilo.org/data> and
-<https://ilostat.ilo.org/data/bulk>.
+The World Bank and the United Nations Statistical Division (UNSD), in coordination with the
+five UN Regional Commissions, are conducting a global online survey to assess the impact
+of the coronavirus crisis on statistical offices, and to identify needs for financial and technical support.
+This archive provides summary data shown in the report; survey data are available at
+<https://covid-19-response.unstatshub.org/statistical-programmes/covid19-nso-survey>
+
 
 ### UNEP ###
 
