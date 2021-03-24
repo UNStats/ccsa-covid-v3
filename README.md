@@ -54,6 +54,11 @@ available data.
 Data was downloaded on 2021-03-10 from the [COVID-19 tracker](https://unhabitat.citiiq.com) dashboard;
 see dashboard for latest available data.
 
+### UN Women ###
+
+Summary data was downloaded from the [COVID-19 Global Gender Response Tracker](https://data.undp.org/gendertracker/);
+see dashboard for latest available data.
+
 ### World Bank ###
 
 Data for computing poverty estimates come from [PovcalNet][povcal] and the latest growth forecasts
